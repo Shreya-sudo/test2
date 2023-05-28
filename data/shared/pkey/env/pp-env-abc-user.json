@@ -1,0 +1,17 @@
+{
+  "k8sclustername": "",
+  "username": "test.test.v1",
+  "region": "west-2",
+  "userType": "Producer",
+  "vaultKV": "emp",
+  "topics": [
+    {
+      "name": "topic",
+      "operation": "Write"
+    },
+    {
+      "name": "topic1",
+      "operation": "Write"
+    }
+  ]
+}
